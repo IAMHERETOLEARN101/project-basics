@@ -1,0 +1,16 @@
+{
+  "dataset": "synthetic-monthly-totals.csv",
+  "goal": "Summarize totals by month",
+  "numericColumn": "amount",
+  "dateColumn": "date",
+  "rows": [
+    {
+      "date": "2025-01-01",
+      "amount": 100
+    },
+    {
+      "date": "2025-02-01",
+      "amount": 120
+    }
+  ]
+}

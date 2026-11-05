@@ -1,0 +1,13 @@
+{
+  "mode": "concept",
+  "availability": [
+    {
+      "day": "Monday",
+      "start": "09:00",
+      "end": "12:00"
+    }
+  ],
+  "goal": "Explore a weekly availability plan",
+  "useLiveTrips": false,
+  "useLocation": false
+}

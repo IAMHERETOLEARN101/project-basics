@@ -1,0 +1,9 @@
+# Default deny: only reviewed public documentation and examples are tracked.
+*
+!/.gitignore
+!/README.md
+!/docs/
+!/docs/*.md
+!/examples/
+!/examples/README.md
+!/examples/*.example.json

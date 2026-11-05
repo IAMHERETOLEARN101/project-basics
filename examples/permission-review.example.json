@@ -1,0 +1,14 @@
+{
+  "mode": "read-only-demo",
+  "subjectId": "demo-user-001",
+  "assignments": [
+    {
+      "label": "Example Read Access",
+      "source": "direct",
+      "permissions": [
+        "ExampleRecord.Read"
+      ]
+    }
+  ],
+  "allowWrites": false
+}

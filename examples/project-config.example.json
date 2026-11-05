@@ -1,0 +1,14 @@
+{
+  "project": {
+    "name": "Example Project",
+    "mode": "local-demo"
+  },
+  "features": {
+    "syntheticDataOnly": true,
+    "externalConnections": false
+  },
+  "preview": {
+    "host": "127.0.0.1",
+    "port": 8000
+  }
+}
